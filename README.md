@@ -88,9 +88,6 @@ Atualmente, venho focando em projetos web para consolidar meus conhecimentos em 
     <img align="left" alt="Figma" title="Figma" width="30px" style="padding: 5px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
       />
-    <img align="left" alt="Git" title="Git" width="30px" style="padding: 5px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-      />
     <img align="left" alt="Maven" title="Maven" width="30px" style="padding: 5px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
       />
