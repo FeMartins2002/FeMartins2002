@@ -1,10 +1,10 @@
 <h3 align="center">
-  Desenvolvedor FullStack
+  Desenvolvedor Backend
 </h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=00EAFF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvimento+Web+%7C+Desenvolvimento+Desktop;Backend+Java+%7C+Frontend+Angular;Clean+Code+%7C+Design+Patterns;Adoro+aprender+novas+tecnologias"
+    src="https://readme-typing-svg.herokuapp.com?color=00EAFF&size=18&center=true&vCenter=true&width=600&lines=Clean+Code+%7C+Design+Patterns;Desenvolvimento+Web+%7C+Desenvolvimento+Desktop;"
   />
 </p>
 
@@ -12,27 +12,17 @@
 
 ### Sobre mim
 <p>
-  Antes de iniciar a graduação em Análise e Desenvolvimento de Sistemas, eu não tinha uma visão clara sobre o universo da Tecnologia da Informação. Sempre utilizei computadores e dispositivos móveis, mas nunca havia me aprofundado em como tudo funcionava por trás.
-
-Após incentivos da família, decidi iniciar a graduação e, a partir do segundo semestre, passei a enxergar a tecnologia de uma forma completamente diferente. A cada novo período, meu interesse só aumentava: estudar mais, praticar os conhecimentos adquiridos e desenvolver projetos próprios tornou-se parte da minha rotina.
-
-Atualmente, ainda não atuo profissionalmente na área, mas estou em constante evolução, revisando conceitos, explorando novas tecnologias e desenvolvendo projetos pessoais e de portfólio.
+  Formado em de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software. Tenho interesse em desenvolvimento backend, buscando criar aplicações escaláveis, bem estruturadas e seguindo boas práticas de engenharia de software. Estou sempre aprimorando meus conhecimentos por meio de estudos e projetos práticos.
 </p>
 
 ### Experiência
 <p>
-  Já desenvolvi uma aplicação desktop 100% em Java, com integração a banco de dados SQLite, voltada para o gerenciamento de estatísticas. Nesse projeto, pude aplicar conceitos como:
-  
-  <ul>
-    <li>Arquitetura MVC</li>
-    <li>Design Patterns (Observer)</li>
-    <li>Consultas e Persistência de Dados</li>
-    <li>Segurança com Hash de senhas</li>
-    <li>Testes Unitários com JUnit</li>
-    <li>Interface Gráfica com Swing</li>
-  </ul>
+  Ao longo dos meus projetos acadêmicos e pessoais, apliquei conceitos de arquitetura de software, padrão MVC, Design Patterns, persistência de dados, integração com bancos de dados, autenticação com hash de senhas, testes unitários, consumo e desenvolvimento de APIs REST, além da construção de interfaces para aplicações desktop e web.
+</p>
 
-Atualmente, venho focando em projetos web para consolidar meus conhecimentos em desenvolvimento full stack, utilizando Spring Boot para o backend em Java e Angular para o frontend.
+### Atividades Atuais
+<p>
+  Atualmente estou aprofundando meus conhecimentos em <strong>Consumo e Desenvolvimento de APIs REST</strong>, desenvolvendo projetos para consolidar boas práticas de desenvolvimento e expandir minha experiência com novas ferramentas e tecnologias.
 </p>
 
 ---
@@ -49,16 +39,7 @@ Atualmente, venho focando em projetos web para consolidar meus conhecimentos em 
     <img align="left" alt="CSS" title="CSS" width="30px" style="padding: 5px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
       />
-    <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding: 5px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-      />
-    <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding: 5px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-      />
 <!-- Frameworks -->
-    <img align="left" alt="Angular" title="Angular" width="30px" style="padding: 5px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-      />
     <img align="left" alt="Spring" title="Spring" width="30px" style="padding: 5px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
     />
